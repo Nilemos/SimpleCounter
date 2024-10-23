@@ -1,9 +1,10 @@
 # Simple Counter
 
 ## Description: 
-An application with an "Increase" button, "Decrease" button and the number of clicks.
+An application with an "Increase" button, "Decrease" button, "Reset" button and the number of clicks.
 * Increase button increases number of clicks.
 * Decrease button decreases number of clicks.
+* Reset button turns the number of clicks to 0.
 ## Difficulty: 
 Beginner level.
 ## Technologies: 
